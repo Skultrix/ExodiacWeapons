@@ -1,0 +1,6 @@
+name: ExodiacWeapons
+author: willowhaus
+main: net.exodiac.weapons.ExodiacWeapons
+version: 1.0
+description: Manager for weapons.
+depend: [ExodiacCore]
